@@ -1,14 +1,12 @@
 # Quiz 1
-![img1](https://github.com/AyaKhaledYousef/AI-for-Medicine-Specialization-Coursera/blob/main/AI%20for%20Medicine%20Specialization/1-%20AI%20for%20Medical%20Diagnosis/Week%203/Images/quiz3.png)
+![img1](https://github.com/AyaKhaledYousef/TensorFlow-2-for-Deep-Learning-Specialization/blob/main/1-%20Getting%20started%20with%20TensorFlow%202/Week%201/Images/1.png)
 ـــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــ
-![img2](https://github.com/AyaKhaledYousef/AI-for-Medicine-Specialization-Coursera/blob/main/AI%20for%20Medicine%20Specialization/1-%20AI%20for%20Medical%20Diagnosis/Week%203/Images/quiz32.png)
+![img2](https://github.com/AyaKhaledYousef/TensorFlow-2-for-Deep-Learning-Specialization/blob/main/1-%20Getting%20started%20with%20TensorFlow%202/Week%201/Images/2.png)
 ـــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــ
-![img3](https://github.com/AyaKhaledYousef/AI-for-Medicine-Specialization-Coursera/blob/main/AI%20for%20Medicine%20Specialization/1-%20AI%20for%20Medical%20Diagnosis/Week%203/Images/quiz33.png)
+![img3](https://github.com/AyaKhaledYousef/TensorFlow-2-for-Deep-Learning-Specialization/blob/main/1-%20Getting%20started%20with%20TensorFlow%202/Week%201/Images/3.png)
 ـــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــ
-![img4](https://github.com/AyaKhaledYousef/AI-for-Medicine-Specialization-Coursera/blob/main/AI%20for%20Medicine%20Specialization/1-%20AI%20for%20Medical%20Diagnosis/Week%203/Images/quiz34.png)
+![img4](https://github.com/AyaKhaledYousef/TensorFlow-2-for-Deep-Learning-Specialization/blob/main/1-%20Getting%20started%20with%20TensorFlow%202/Week%201/Images/4.png)
 ـــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــ
-![img5](https://github.com/AyaKhaledYousef/AI-for-Medicine-Specialization-Coursera/blob/main/AI%20for%20Medicine%20Specialization/1-%20AI%20for%20Medical%20Diagnosis/Week%203/Images/quiz35.png)
-ـــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــ
-![img6](https://github.com/AyaKhaledYousef/AI-for-Medicine-Specialization-Coursera/blob/main/AI%20for%20Medicine%20Specialization/1-%20AI%20for%20Medical%20Diagnosis/Week%203/Images/quiz36.png)
-ـــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــ
+![img5](https://github.com/AyaKhaledYousef/TensorFlow-2-for-Deep-Learning-Specialization/blob/main/1-%20Getting%20started%20with%20TensorFlow%202/Week%201/Images/5.png)
+ــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــ
 
